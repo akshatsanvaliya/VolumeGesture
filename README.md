@@ -6,5 +6,6 @@ Installation: -
 3. download all the packages.
 4. run GestureVolumeControl.py
 5. Voila!
+
 Having any doubt?...drop query on my mail.
 Have a Great day!
